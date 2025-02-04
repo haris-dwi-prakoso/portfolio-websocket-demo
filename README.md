@@ -44,6 +44,7 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
+Open a socket.io connection to http://localhost:4000 or the port specified by the .env variable `WS_PORT`.
 
 ## Run tests
 
